@@ -1,6 +1,7 @@
 # Magento Certifications
 
-![](https://raw.githubusercontent.com/BarnyShergold/BarnyShergold/master/images/pro-cloud-dev-2x.png)
+![Adobe_Certified_Badge](https://user-images.githubusercontent.com/1592991/142617863-fdce0c5b-8313-4525-a941-f7e916d62c5d.jpg)
+
 
 <!--
 **BarnyShergold/BarnyShergold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
